@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skd-recall
+- 👋 Hi, I’m Salman Khan/@skd-recall
 - 👀 I’m interested in Ai amd Ml
 - 🌱 I’m currently learning Python and ML algorthms
 - 💞️ I’m looking to collaborate on Ml
