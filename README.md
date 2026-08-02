@@ -5,7 +5,7 @@ AI Engineer | Machine Learning | Python Developer | Building AI Applications
 </h3>
 
 <p align="center">
-Passionate about building intelligent applications using Machine Learning, Computer Vision, LLMs, and AI Automation.
+building intelligent applications using Machine Learning, Computer Vision, LLMs, and AI Automation.
 </p>
 
 ---
@@ -15,8 +15,8 @@ Passionate about building intelligent applications using Machine Learning, Compu
 - 🎓 BS Software Engineering Graduate
 - 🤖 Interested in AI Engineering, LLMs, AI Agents & Automation
 - 🐍 Python Developer
-- 🧠 Computer Vision Enthusiast
-- 🌱 Currently learning LangChain, RAG, MCP & AI Agent Systems
+- 🧠 Computer Vision/deep learning
+- 🌱 create application using LangChain, RAG, MCP & AI Agent Systems
 - 💼 Open to AI Engineer / ML Engineer opportunities
 
 ---
